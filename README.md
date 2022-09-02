@@ -19,6 +19,8 @@ npm run build
 ```
 npm run lint
 ```
-
+### to run the project
+access to the backend-server-folder and in the terminal execute npm start
+in another terminal get access to the parent folder and execute the following command : npm run serve -dist
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
